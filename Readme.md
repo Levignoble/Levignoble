@@ -1,20 +1,22 @@
 # 👋 Hi, I'm Saksham Singh Rawat!  
 
 ## 🚀 About Me  
-💻 I’m a passionate **Full Stack Developer** exploring web technologies, open-source contributions, and software development.  
+💻 **"Technology is best when it brings people together."** – *Matt Mullenweg*  
+As a **Full Stack Developer**, I love creating digital experiences that connect people. Passionate about **cutting-edge web technologies**, **open-source contributions**, and **scalable software solutions**, I constantly strive to bring ideas to life through **technology**.  
 
 ---
 
 ## 🛠 Tech Stack  
 
-### 🚀 Frontend  
+### 🎨 Frontend & Animation  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer)  
+![Anime.js](https://img.shields.io/badge/Anime.js-FF9A8B?style=for-the-badge)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Anime.js](https://img.shields.io/badge/Anime.js-FF9A8B?style=for-the-badge)  
 
 ### ⚡ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -44,4 +46,3 @@
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-singh-rawat-1344b1252/)  
-  
