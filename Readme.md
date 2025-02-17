@@ -42,7 +42,8 @@ As a **Full Stack Developer**, I love creating digital experiences that connect 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Levignoble&show_icons=true&theme=radical" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Levignoble&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levignoble&layout=compact&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levignoble&layout=compact&theme=radical&cache_seconds=3600" width="400" />
+
 </div>  
 
 ---
